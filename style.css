@@ -1,0 +1,12 @@
+body{background-color:#969696;
+margin-left: 20%;
+margin-right: 20%;
+}
+p{background-color:#000000;
+font-family:Arial;
+color:black;
+-webkit-text-stroke-width: .5px;
+-webkit-text-stroke-color: white;
+font-size:24px}
+h1{color:white}
+a{font-size: 24px}
